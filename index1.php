@@ -11,6 +11,9 @@
         $a = array('1','abc','123vc');
         echo $a[2];
         echo count($a);
+
+        $b = 1;
+        echo $b;
     ?>
     
 </body>
